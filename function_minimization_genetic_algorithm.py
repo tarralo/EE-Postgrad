@@ -1,5 +1,4 @@
-'''Trabalho 2 - Algoritmos Genéticos 2023.1
-Autor: Luiz Arthur Tarralo Passatuto
+'''Autor: Luiz Arthur Tarralo Passatuto
 Minimização de uma função de 1 variável utilizando Algoritmos Genéticos'''
 
 import numpy as np
